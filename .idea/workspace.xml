@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ba75b6-3cb9-4a30-99b9-ffa450f38129" name="Default Changelist" comment="">
+    <list default="true" id="00ba75b6-3cb9-4a30-99b9-ffa450f38129" name="Default Changelist" comment="Limpando projeto">
+      <change afterPath="$PROJECT_DIR$/PythonNetwork.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DataNotebooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataNotebooks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/notebooksPython$Notebooks.coverage" NAME="Notebooks Coverage Results" MODIFIED="1535101033760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DataNotebooks$DataNotebooks.coverage" NAME="DataNotebooks Coverage Results" MODIFIED="1533910550470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/Notebooks$Notebooks.coverage" NAME="Notebooks Coverage Results" MODIFIED="1534517489583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -95,14 +98,62 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-700713834">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1065" />
+          <entry key="txt" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="Python" value="1065" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ipynb" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IPNB" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
               <selected id="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonNetwork.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aula_1CD.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="109" />
             </state>
           </provider>
         </entry>
@@ -126,6 +177,7 @@
         <option value="$PROJECT_DIR$/Aula_1CD.ipynb" />
         <option value="$PROJECT_DIR$/NumpyEstudos.ipynb" />
         <option value="$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb" />
+        <option value="$PROJECT_DIR$/PythonNetwork.ipynb" />
       </list>
     </option>
   </component>
@@ -136,8 +188,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1280" />
-    <option name="height" value="1024" />
+    <option name="x" value="1272" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="1000" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -149,8 +203,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Notebooks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notebooks" type="462c0819:PsiDirectoryNode" />
+              <item name="notebooksPython" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notebooksPython" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,7 +239,7 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="SDK_HOME" value="C:\Users\Eric\Documents\Estudos\Python\notebooksPython\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -233,7 +287,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534514029963</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removendo venv">
+      <created>1535098513521</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1535098513521</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Limpando projeto">
+      <created>1535098560821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1535098560821</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -246,15 +314,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
+    <frame x="1272" y="-8" width="1296" height="1000" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26171243" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26132685" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32794458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -263,7 +330,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32956153" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3281471" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32794458" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3281471" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -281,7 +348,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Continuando..." />
-    <option name="LAST_COMMIT_MESSAGE" value="Continuando..." />
+    <MESSAGE value="Removendo venv" />
+    <MESSAGE value="Limpando projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Limpando projeto" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Teste.ipynb" />
@@ -292,6 +361,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="54" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Aula_1CD.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -299,10 +375,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aula_2_-_Pacote_Numpy.ipynb">
+    <entry file="file://$PROJECT_DIR$/PythonNetwork.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="54" />
+          <selected id="10" />
         </state>
       </provider>
     </entry>
