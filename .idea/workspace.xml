@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ba75b6-3cb9-4a30-99b9-ffa450f38129" name="Default Changelist" comment="Limpando projeto">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_10_-_Pacote_sklearn_-_metricas_e_preprocessamento.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_4_-_Pacote_Pandas_Parte__I.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_5_-_Pacote_Pandas_Parte_II.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_8_-__Pacote_Seaborn.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aula_9__-_Aprendizagem_Supervisonada.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScoobyDoo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/DataNotebooks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DataNotebooks.iml" afterDir="false" />
+    <list default="true" id="00ba75b6-3cb9-4a30-99b9-ffa450f38129" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aula_4_-_Pacote_Pandas_Parte__I.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Aula_4_-_Pacote_Pandas_Parte__I.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -157,13 +149,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="5" />
-          <entry key="py" value="28" />
+          <entry key="py" value="318" />
+          <entry key="txt" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="28" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Python" value="318" />
         </counts>
       </usages-collector>
     </session>
@@ -183,7 +176,7 @@
         <entry file="file://$PROJECT_DIR$/Aula_4_-_Pacote_Pandas_Parte__I.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="35" />
+              <selected id="38" />
             </state>
           </provider>
         </entry>
@@ -334,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1535098560821</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adicionando novos notebooks e tirando o venv">
+      <created>1540088344376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540088344376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -355,7 +355,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32681242" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32681242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -386,7 +386,8 @@
     <MESSAGE value="Continuando..." />
     <MESSAGE value="Removendo venv" />
     <MESSAGE value="Limpando projeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Limpando projeto" />
+    <MESSAGE value="Adicionando novos notebooks e tirando o venv" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando novos notebooks e tirando o venv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Teste.ipynb" />
@@ -429,7 +430,7 @@
     <entry file="file://$PROJECT_DIR$/Aula_4_-_Pacote_Pandas_Parte__I.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="35" />
+          <selected id="38" />
         </state>
       </provider>
     </entry>
